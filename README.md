@@ -1,4 +1,4 @@
-# servidor-simulado
+# rest-server
 
 **Instalar dependencias**<br>
 npm install <br>
