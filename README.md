@@ -8,6 +8,7 @@ Este comando es esencial para poder ejecutar proyectos de Node.js que utilizan p
 
 **Ejecutar el proyecto**<br>
 npm start o nodemon .\dist\app <br>
+"npm start" se utiliza para iniciar una aplicación Node.js. Este comando busca en el archivo package.json de la aplicación la propiedad "start" que contiene el comando a ejecutar para iniciar la aplicación.
 
 **Ejecutar el proyecto en typescript - opcional** <br>
 tsc -w <br>
