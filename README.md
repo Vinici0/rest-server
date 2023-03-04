@@ -1,5 +1,6 @@
 # PROYECTO ENFOCADO A UNA FARMACIA
 # rest-server
+Con Restserver, puede crear servicios web que interactúen con otras aplicaciones mediante HTTP
 
 **Instalar dependencias**<br>
 npm install <br>
