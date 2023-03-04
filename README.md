@@ -3,6 +3,7 @@
 
 **Instalar dependencias**<br>
 npm install <br>
+Este comando es esencial para poder ejecutar proyectos de Node.js que utilizan paquetes externos, ya que estos paquetes deben ser descargados e instalados antes de que el proyecto pueda ejecutarse correctamente.
 
 **Ejecutar el proyecto**<br>
 npm start o nodemon .\dist\app <br>
